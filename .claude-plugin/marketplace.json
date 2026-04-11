@@ -2,10 +2,10 @@
   "name": "bean-kit",
   "description": "This is an ever-evolving Claude Code Multitool.",
   "version": "1.0.0",
-  "author": {
+  "owner": {
     "name": "Bean"
   },
-  "skills": [
+  "plugins": [
     {
       "id": "github-kol-script",
       "name": "GitHub KOL Script",
