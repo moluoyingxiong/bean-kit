@@ -2,7 +2,7 @@
 Skills &amp; Toolkit
 
 ## Workflow Automators
- - github-kol-sript skill
+ - github-kol-script skill
 
 
 ...
