@@ -7,10 +7,9 @@
   },
   "plugins": [
     {
-      "id": "github-kol-script",
-      "name": "GitHub KOL Script",
-      "description": "GitHub 爆款项目发现 + 口播文案生成器",
-      "entry": "skills/github-kol-script"
+      "name": "bean-ai-tools",
+      "description": "我嘞个豆的 AI tools",
+      "source": "./plugins/bean-ai-tools"
     }
   ]
 }
